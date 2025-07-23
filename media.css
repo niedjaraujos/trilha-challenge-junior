@@ -1,0 +1,96 @@
+@media (width <= 786px) {
+  .container {
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 2rem 0.5rem;
+    justify-content: center;
+  }
+
+  .header {
+    max-width: 80%;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: center;
+    gap: 1rem;
+  }
+  nav ul {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2rem;
+  }
+
+  ul li a {
+    background-color: var(--color-green);
+    color: var(--black);
+    border-radius: 60px;
+    padding: 0.6rem 1.5rem;
+    font-weight: 500;
+  }
+  .hero-img {
+    width: 22rem;
+  }
+
+  .about img {
+    max-width: 22rem;
+  }
+
+  .cards,
+  .thumbnails {
+    justify-content: center;
+  }
+
+  .img-right {
+    display: none;
+  }
+  .form {
+    justify-content: center;
+  }
+  .input-sobrepor {
+    margin-left: 0;
+  }
+  .form label {
+    font-size: 1rem;
+  }
+  input,
+  select,
+  textarea {
+    font-size: 0.85rem;
+  }
+  .form-group input {
+    width: 20rem;
+    height: 3rem;
+    padding: 0.8rem;
+  }
+  input::placeholder,
+  textarea::placeholder {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+  }
+  select {
+    width: 10rem;
+    height: 3rem;
+    padding: 0.8rem;
+  }
+  select option {
+    font-size: 0.5rem;
+  }
+  .form-group textarea {
+    padding: 0.8rem;
+    max-width: 22rem;
+    height: 15rem;
+  }
+
+  .faq-list details summary {
+    font-size: 1rem;
+    padding-right: 3rem;
+  }
+  details summary::after {
+    width: 25px;
+    height: 25px;
+  }
+
+  .footer {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
