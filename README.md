@@ -6,4 +6,4 @@
 
 🎨 Link do Desafio: https://desafio.natrilhadodev.com.br/desafio
 
--Desafio iniciante no Figma: https://www.figma.com/design/OzNJTQWEX45ULMs2X9nwzV/-TrilhaChallenge---Iniciante?node-id=17-2&t=AcAVZ963WqLA5hbs-0
+-Desafio iniciante no Figma: https://www.figma.com/design/POS1IpNbHoyXFZF226uNlH/-TrilhaChallenge---J%C3%BAnior?node-id=0-1&p=f&t=MOegAPKznQbYYRbm-0
